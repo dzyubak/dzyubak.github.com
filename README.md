@@ -1,2 +1,2 @@
-# dzyubak.github.com
-dzyubak.github.com
+# dzyubak.github.io
+dzyubak.github.io
